@@ -10,7 +10,7 @@ Soluciones en **Python** de los ejercicios del capítulo *Clases y objetos*.
 |-----------|-------------|--------|
 | 2.1 | [Clase Persona] | [ejercicio2.1.py](ejercicio2.1.py) |
 | 2.2 | [Clase Planeta] | [ejercicio2.2.py](ejercicio2.2.py) |
-| 2.3 | [Clase Automóvil] | [ejercicio2.3.py](ejercicio2.3.py) |
+| 2.3 | Clase Automóvil | [ejercicio2.3.py](ejercicio2.3.py) |
 | 2.4 | [Clases sobre figuras geométricas] | [ejercicio2.4.py](ejercicio2.4.py) |
 | 2.5 | [Clase cuenta Bancaria] | [ejercicio2.5.py](ejercicio2.5.py) |
 
