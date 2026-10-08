@@ -8,4 +8,4 @@ Soluciones de las actividades evaluativas de la materia **Programación Orientad
 
 ## Actividades
 
-- [Actividad evaluativa 2](actividad2/): [nombre del tema]
+- [Actividad evaluativa 2](actividad2/)
